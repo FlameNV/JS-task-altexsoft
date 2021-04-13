@@ -1,2 +1,3 @@
-# JS-task-altexsoft
-JS task for AltexSoft Lab
+# JS task for AltexSoft Lab
+
+Task was completed by: Nikita Vyzhol
